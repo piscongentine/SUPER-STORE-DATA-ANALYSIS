@@ -1,8 +1,5 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">📊 SUPER STORE DATA ANALYSIS</h1>
-<h3 align="center">IBM Watsonx.ai Studio | Cloud Data Analytics | Hands-On Project</h3>
-
 <p align="center">
   <a href="https://www.ibm.com/products/watsonx-ai" target="_blank">
     <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" height="45" alt="IBM Watsonx AI"/>
@@ -26,6 +23,7 @@
     <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="38" alt="GitHub Forks"/>
   </a>
 </p>
+
 
 ---
 
