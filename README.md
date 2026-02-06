@@ -31,7 +31,7 @@
 🔹 **GitHub Repository**  
 👉 https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS  
 
-🔹 **Dataset (Clickable Asset)**  
+🔹 **Dataset**  
 👉 **[`superstore.csv`](https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS/commit/f9fcc735909383e11f44c7a095085d1d5ce8da29)**  
 
 ---
