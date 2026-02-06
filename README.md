@@ -1,29 +1,28 @@
 <!-- ===================== HEADER ===================== -->
 
+<h1 align="center">📊 SUPER STORE DATA ANALYSIS</h1>
+<h3 align="center">IBM Watsonx.ai Studio | Cloud Data Analytics | Hands-On Project</h3>
+
 <p align="center">
   <a href="https://www.ibm.com/products/watsonx-ai" target="_blank">
-    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" height="45" alt="IBM Watsonx AI"/>
+    <img src="https://img.shields.io/badge/IBM-Watsonx.ai-blue?style=for-the-badge&logo=ibm&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://skillsbuild.org" target="_blank">
-    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" height="45" alt="IBM SkillsBuild"/>
+    <img src="https://img.shields.io/badge/IBM-SkillsBuild-purple?style=for-the-badge&logo=ibm&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://cloud.ibm.com" target="_blank">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="45" alt="IBM Cloud"/>
+    <img src="https://img.shields.io/badge/IBM-Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS" target="_blank">
-    <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" height="38" alt="GitHub Stars"/>
+  <a href="https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS">
+    <img src="https://img.shields.io/github/stars/piscongentine/SUPER-STORE-DATA-ANALYSIS?style=social"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS/fork" target="_blank">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="38" alt="GitHub Forks"/>
+  <a href="https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS/fork">
+    <img src="https://img.shields.io/github/forks/piscongentine/SUPER-STORE-DATA-ANALYSIS?style=social"/>
   </a>
 </p>
-
 
 ---
 
