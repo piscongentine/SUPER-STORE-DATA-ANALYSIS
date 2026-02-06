@@ -1,181 +1,191 @@
-# 📊 Super Store Data Analysis using IBM Watsonx.ai Studio
+<!-- ===================== HEADER ===================== -->
 
-![IBM Watsonx](https://img.shields.io/badge/IBM-Watsonx.ai-blue)
-![IBM SkillsBuild](https://img.shields.io/badge/IBM-SkillsBuild-purple)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+<h1 align="center">📊 SUPER STORE DATA ANALYSIS</h1>
+<h3 align="center">IBM Watsonx.ai Studio | Cloud Data Analytics | Hands-On Project</h3>
+
+<p align="center">
+  <a href="https://www.ibm.com/products/watsonx-ai" target="_blank">
+    <img src="https://img.shields.io/badge/IBM-Watsonx.ai-blue?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
+  <a href="https://skillsbuild.org" target="_blank">
+    <img src="https://img.shields.io/badge/IBM-SkillsBuild-purple?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
+  <a href="https://cloud.ibm.com" target="_blank">
+    <img src="https://img.shields.io/badge/IBM-Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS">
+    <img src="https://img.shields.io/github/stars/piscongentine/SUPER-STORE-DATA-ANALYSIS?style=social"/>
+  </a>
+  <a href="https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS/fork">
+    <img src="https://img.shields.io/github/forks/piscongentine/SUPER-STORE-DATA-ANALYSIS?style=social"/>
+  </a>
+</p>
 
 ---
 
-## 🔗 Project Links
+## 🔗 Project Access
 
-- **Main Repository:**  
-  https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS
+🔹 **GitHub Repository**  
+👉 https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS  
 
-- **Dataset Commit Link:**  
-  https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS/commit/f9fcc735909383e11f44c7a095085d1d5ce8da29
-
-- **Dataset Used:**  
-  `superstore.csv`
+🔹 **Dataset (Clickable Asset)**  
+👉 **[`superstore.csv`](https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS/commit/f9fcc735909383e11f44c7a095085d1d5ce8da29)**  
 
 ---
 
 ## 🧾 Project Overview
 
-This project demonstrates an **end-to-end data analytics workflow** using **IBM Watsonx.ai Studio** and **Data Refinery** on IBM Cloud.  
-The goal of the project is to **import, prepare, analyze, and visualize a retail Super Store dataset** to derive meaningful business insights.
+This project presents a **complete, industry-grade data analytics pipeline** implemented using **IBM Watsonx.ai Studio** on **IBM Cloud**.
 
-This is a **fully hands-on project** completed as part of learning through **IBM SkillsBuild**, focusing on real-world cloud-based data analytics.
+The objective is to:
+- Import real-world retail data
+- Prepare and refine it using **Data Refinery**
+- Perform analytical visualizations
+- Derive actionable business insights
 
----
-
-## 🛠 Tools & Technologies
-
-- IBM Watsonx.ai Studio  
-- IBM Cloud Object Storage  
-- Data Refinery  
-- CSV Dataset (Superstore)  
-- IBM SkillsBuild Platform  
+This project is **fully hands-on** and aligned with **IBM SkillsBuild learning standards**.
 
 ---
 
-## 📂 Dataset Description
+## 🛠 Technology Stack
 
-The dataset `superstore.csv` contains retail transaction data such as:
+| Category | Tools |
+|--------|------|
+| Cloud Platform | IBM Cloud |
+| Analytics Studio | IBM Watsonx.ai |
+| Data Processing | Data Refinery |
+| Dataset | Super Store (CSV) |
+| Learning Platform | IBM SkillsBuild |
 
-- Ship Mode  
-- Segment  
+---
+
+## 📂 Dataset Used
+
+The dataset **[`superstore.csv`](https://github.com/piscongentine/SUPER-STORE-DATA-ANALYSIS/commit/f9fcc735909383e11f44c7a095085d1d5ce8da29)** includes:
+
+- Shipping Mode  
+- Customer Segment  
 - Country, State, City, Region  
-- Category & Sub-Category  
-- Sales and Profit  
+- Product Category & Sub-Category  
+- Sales & Profit metrics  
 
-This dataset is widely used for **sales analysis and business intelligence** tasks.
-
----
-
-## 🔁 Step-by-Step Implementation (with Screenshots)
+This dataset is widely used for **retail analytics and BI case studies**.
 
 ---
 
-### 🔹 Step 1: Project Creation in IBM Watsonx.ai Studio
-
-A **Data Analytics Project** was created in IBM Watsonx.ai Studio to manage datasets, flows, and visualizations.
-
-![Project Overview](Screenshot%202026-02-06%20115009.png)
+## 🔁 Step-by-Step Execution (Hands-On Proof)
 
 ---
 
-### 🔹 Step 2: Importing Data Asset
+### ✅ Step 1: Project Creation
 
-The dataset was imported into the project as a **Data Asset** from a local file.
+A **Data Analytics Project** was created inside IBM Watsonx.ai Studio to manage assets and workflows.
 
-![Import Assets](Screenshot%202026-02-06%20115201.png)
-
----
-
-### 🔹 Step 3: Uploading Dataset (superstore.csv)
-
-The file `superstore.csv` was successfully uploaded and verified.
-
-![Dataset Upload](Screenshot%202026-02-06%20115321.png)
+<img src="Screenshot 2026-02-06 115009.png" width="100%"/>
 
 ---
 
-### 🔹 Step 4: Previewing the Dataset
+### ✅ Step 2: Importing Data Asset
 
-The dataset preview was used to inspect:
-- Columns
-- Sample rows
-- Data consistency
+The dataset was imported into the project as a **Data Asset**.
 
-![Dataset Preview](Screenshot%202026-02-06%20115555.png)
+<img src="Screenshot 2026-02-06 115201.png" width="100%"/>
 
 ---
 
-### 🔹 Step 5: Opening Data Refinery
+### ✅ Step 3: Dataset Upload Confirmation
 
-The dataset was opened in **Data Refinery** to begin data preparation and analysis.
+The file **superstore.csv** was successfully uploaded and verified.
 
-![Data Refinery Flow](Screenshot%202026-02-06%20115712.png)
-
----
-
-### 🔹 Step 6: Automatic Column Type Conversion
-
-An auto-generated step was applied to **convert column data types**, ensuring numerical and categorical fields were correctly inferred.
-
-![Convert Column Type](Screenshot%202026-02-06%20115843.png)
+<img src="Screenshot 2026-02-06 115321.png" width="100%"/>
 
 ---
 
-### 🔹 Step 7: Pie Chart Visualization (Region vs Profit)
+### ✅ Step 4: Dataset Preview
 
-A **Pie Chart** was created with:
-- Dimension: `Region`
-- Measure: `Profit (Sum)`
+Previewed columns, rows, and overall data quality before processing.
 
-This visualization shows **profit contribution by region**.
-
-![Pie Chart](Screenshot%202026-02-06%20115917.png)
+<img src="Screenshot 2026-02-06 115555.png" width="100%"/>
 
 ---
 
-### 🔹 Step 8: Bar Chart Visualization (Region-wise Count)
+### ✅ Step 5: Data Refinery Flow
 
-A **Bar Chart** was created to analyze **region-wise transaction counts**.
+Opened the dataset in **Data Refinery** to start transformation and analytics.
 
-![Bar Chart](Screenshot%202026-02-06%20120601.png)
-
----
-
-### 🔹 Step 9: Pareto Chart Analysis (80/20 Rule)
-
-A **Pareto Chart** was used to identify:
-- High-impact regions
-- Cumulative contribution using the **80/20 principle**
-
-![Pareto Chart](Screenshot%202026-02-06%20120912.png)
+<img src="Screenshot 2026-02-06 115712.png" width="100%"/>
 
 ---
 
-## 📈 Key Insights
+### ✅ Step 6: Automatic Column Type Conversion
 
-- Certain regions contribute disproportionately to total profit.
-- Pareto analysis highlights **vital few regions** driving performance.
-- Visual analytics simplifies complex datasets into business-ready insights.
-- Data Refinery enables **no-code analytics** efficiently.
+Applied auto-generated steps to infer correct data types.
 
----
-
-## 🧠 Learning Outcomes
-
-This hands-on project helped me gain practical experience in:
-
-- Cloud-based data analytics using IBM Watsonx
-- Data preparation with Data Refinery
-- Creating business-oriented visualizations
-- Applying analytical thinking to real datasets
-- Understanding enterprise analytics workflows
+<img src="Screenshot 2026-02-06 115843.png" width="100%"/>
 
 ---
 
-## 🏅 Certification & Hands-On Validation
+### ✅ Step 7: Pie Chart — Region vs Profit
 
-This project was completed as part of **IBM SkillsBuild learning**, and I successfully earned the certification:
+Analyzed **profit distribution across regions**.
+
+<img src="Screenshot 2026-02-06 115917.png" width="100%"/>
+
+---
+
+### ✅ Step 8: Bar Chart — Region Count
+
+Compared **transaction volume per region**.
+
+<img src="Screenshot 2026-02-06 120601.png" width="100%"/>
+
+---
+
+### ✅ Step 9: Pareto Chart — 80/20 Rule
+
+Identified **vital few regions** contributing maximum business value.
+
+<img src="Screenshot 2026-02-06 120912.png" width="100%"/>
+
+---
+
+## 📈 Key Business Insights
+
+- A small number of regions generate majority profit
+- Pareto analysis helps prioritize decision-making
+- Visual analytics converts raw data into strategy
+- Cloud analytics enables scalable insights
+
+---
+
+## 🧠 Skills Gained
+
+✔ Cloud Data Analytics  
+✔ IBM Watsonx.ai Studio  
+✔ Data Refinery Pipelines  
+✔ Business Visualization  
+✔ Analytical Thinking  
+
+---
+
+## 🏅 Certification (Hands-On Validation)
 
 **📜 Journey to Cloud: Envisioning Your Solution**  
 Issued by **IBM SkillsBuild**
 
-![IBM Certificate](Screenshot%202026-02-06%20131758.png)
+<img src="Screenshot 2026-02-06 131758.png" width="100%"/>
 
-The certification validates my **hands-on experience with IBM Cloud and data analytics tools**.
+This certification validates **real hands-on cloud analytics experience**.
 
 ---
 
-## 📌 Conclusion
+## 📌 Final Conclusion
 
-This project demonstrates how **IBM Watsonx.ai Studio** can be used to perform structured data analytics, visualization, and insight generation on real-world datasets.  
-It serves as a strong foundation for **advanced analytics, AI, and machine learning workflows**.
+This project demonstrates the **practical application of enterprise cloud analytics** using IBM Watsonx.ai.  
+It establishes a strong base for **advanced AI, ML, and business intelligence projects**.
 
 ---
 
@@ -183,9 +193,10 @@ It serves as a strong foundation for **advanced analytics, AI, and machine learn
 
 - IBM SkillsBuild  
 - IBM Watsonx.ai  
-- Edunet Foundation  
-- Haridwar University  
+- Edunet Foundation   
 
 ---
 
-⭐ *If you find this project useful, feel free to star the repository!*
+<p align="center">
+⭐ <b>If you found this project valuable, don’t forget to star the repository!</b>
+</p>
